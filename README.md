@@ -10,3 +10,5 @@ Pueden hacer lo que quieran...
 ¡Mensaje agregado desde GitHub!
 
 ## Hola Mundo desde GitHub
+
+## Estos cambios son nuevos (VScode)
