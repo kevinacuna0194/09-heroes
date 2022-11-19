@@ -11,4 +11,4 @@ Pueden hacer lo que quieran...
 
 ## Hola Mundo desde GitHub
 
-## Estos cambios son nuevos (VScode)
+## Estos cambios son nuevos desde mi repositorio local
